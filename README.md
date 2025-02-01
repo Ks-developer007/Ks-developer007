@@ -7,7 +7,7 @@
 <ul>
   <li>
     <i>I am a enthusiast progarmmer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></i></li>
-  <li><i>Currently i am working on <b>web development</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and <b>IT networkings<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></li>
+  <li><i>Currently i am working on <b>web development</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></li>
   <li><b>Graduated from Asutosh College in Computer Science Honors 💼
 </li>
     <li> Please email via  <b>sardarkuntal273@gmail.com</b> to reach me 📫.</li>
