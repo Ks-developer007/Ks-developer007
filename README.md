@@ -32,6 +32,9 @@
 <td align="center" background-color="white" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
+<td align="center" background-color="white" width="20%">
+<img height=100px src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"> 
+</td>
 
 <td align="center" background-color="white" width="20%">
 <img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
@@ -48,6 +51,7 @@
 <h2 align= 'center' height= "230vh">My skills :woman_technologist:</h2>
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 </p>
 
